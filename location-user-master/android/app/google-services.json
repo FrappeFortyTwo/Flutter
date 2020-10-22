@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "592996181902",
+    "firebase_url": "https://s4c-flutter.firebaseio.com",
+    "project_id": "s4c-flutter",
+    "storage_bucket": "s4c-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592996181902:android:c70a5c62512b29efcba6df",
+        "android_client_info": {
+          "package_name": "com.seek4care.seek4care_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "592996181902-ga3v6brr3c9h107gsc9v2298d486via2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.seek4care.seek4care_admin",
+            "certificate_hash": "e9d72ee3b347b8c3d213ee4c459bea5396e9d58d"
+          }
+        },
+        {
+          "client_id": "592996181902-396fsum7ktl7t9qdrqr7phjb721vq04d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1QgALwclOvAjZpr9ap2rLMZu_qOTlPwI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "592996181902-396fsum7ktl7t9qdrqr7phjb721vq04d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592996181902:android:071d9991f8f13819cba6df",
+        "android_client_info": {
+          "package_name": "com.seek4care.seek4care_partner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "592996181902-u44scckq2cs2i4p0v5816toere8spjsi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.seek4care.seek4care_partner",
+            "certificate_hash": "e9d72ee3b347b8c3d213ee4c459bea5396e9d58d"
+          }
+        },
+        {
+          "client_id": "592996181902-396fsum7ktl7t9qdrqr7phjb721vq04d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1QgALwclOvAjZpr9ap2rLMZu_qOTlPwI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "592996181902-396fsum7ktl7t9qdrqr7phjb721vq04d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592996181902:android:33540b01420842a5cba6df",
+        "android_client_info": {
+          "package_name": "com.seek4care.seek4care_user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "592996181902-eio58nut4ghvrqqijp42tmmlc0b4nn27.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.seek4care.seek4care_user",
+            "certificate_hash": "e9d72ee3b347b8c3d213ee4c459bea5396e9d58d"
+          }
+        },
+        {
+          "client_id": "592996181902-396fsum7ktl7t9qdrqr7phjb721vq04d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1QgALwclOvAjZpr9ap2rLMZu_qOTlPwI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "592996181902-396fsum7ktl7t9qdrqr7phjb721vq04d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
